@@ -1,0 +1,2 @@
+# Giveawaybot
+@TrustlyEscrow
